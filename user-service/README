@@ -1,0 +1,4 @@
+#  User service
+
+This service is responsible for dealing with users of our system, we use this service to login and user informations
+
